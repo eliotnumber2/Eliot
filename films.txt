@@ -55,7 +55,7 @@ Voir la bande-annonce
 S�ancesDVDVOD
 
 4. 
-Gran Torino
+titre: Gran Torino
 Date de sortie	25 f�vrier 2009 (1h51min)
 R�alisateur	Clint Eastwood
 
